@@ -54,7 +54,7 @@ The data model adopts a star schema structure (the most efficient for a data mod
 ![Key Metrics.png](https://github.com/jakejosh6751/Automated-Excel-Inventory-Tracking-System-with-Dashboard/blob/main/Key%20Metrics.png)
 ___
 
-### Visualization
+### Visualisation
 The project features an **Inventory Overview Sheet** highlighting key metrics with colour formatting to emphasize important insights, and an interactive **Inventory Dashboard** with slicers (filters) to explore data by months, product categories, and products.
 
 *Inventory Overview Sheet*:
